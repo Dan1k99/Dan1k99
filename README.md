@@ -77,7 +77,7 @@ class DaniMirkin:
 </td>
 <td width="50%">
 
-### 📊 **Data Science Pipeline**
+### 📊 **Data analytics**
 <img src="https://media.giphy.com/media/l3q2Z6S6n38zjPswo/giphy.gif" width="200" align="right">
 
 - Advanced analytics with Python & SQL
