@@ -104,14 +104,47 @@ class DaniMirkin:
 
 <div align="center">
 
-[![Finals---Oncology-department](https://github-readme-stats.vercel.app/api/pin/?username=Dan1k99&repo=Finals---Oncology-department&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1)](https://github.com/Dan1k99/Finals---Oncology-department)
-[![RL-PPO-SarlVision](https://github-readme-stats.vercel.app/api/pin/?username=Dan1k99&repo=RL-PPO-SarlVision&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1)](https://github.com/Dan1k99/RL-PPO-SarlVision)
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60">
 
-[![BI](https://github-readme-stats.vercel.app/api/pin/?username=Dan1k99&repo=BI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1)](https://github.com/Dan1k99/BI)
+### 🌟 **Explore My Data Science Journey** 🌟
 
-### 🔍 [View All My Repositories →](https://github.com/Dan1k99?tab=repositories)
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/Dan1k99/Finals---Oncology-department">
+<img src="https://media.giphy.com/media/SyNPIk6dVeQYnYJSLn/giphy.gif" width="120"><br>
+<b>🏥 Healthcare Analytics</b><br>
+<sub><i>Oncology Department Analysis</i></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Dan1k99/BI">
+<img src="https://media.giphy.com/media/f9QkLLuJm3P1hRjOUP/giphy.gif" width="120"><br>
+<b>📊 Business Intelligence</b><br>
+<sub><i>Dashboard & Analytics</i></sub>
+</a>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Dan1k99/RL-PPO-SarlVision">
+<img src="https://media.giphy.com/media/xThuWcZzGnonnG3ayQ/giphy.gif" width="120"><br>
+<b>🤖 Reinforcement Learning</b><br>
+<sub><i>PPO with Computer Vision</i></sub>
+</a>
+</td>
+</tr>
+</table>
+
+---
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
+
+### 🔍 **[View All My Repositories →](https://github.com/Dan1k99?tab=repositories)**
+
+<sub>*💡 Each project represents a different facet of my data science expertise*</sub>
 
 </div>
+
+---
 
 ## ⚡ When I'm Not Coding
 
@@ -120,22 +153,22 @@ class DaniMirkin:
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="100"><br>
+<img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400" width="100"><br>
 <b>💪 Gym</b><br>
 <sub>Staying physically strong while building mental strength</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/26u4cS5vSnWyepw6Q/giphy.gif" width="100"><br>
+<img src="https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=400" width="100"><br>
 <b>♟️ Chess</b><br>
 <sub>Strategic thinking translates well to problem-solving</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/6fScAIQR0P0xW/giphy.gif" width="100"><br>
+<img src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400" width="100"><br>
 <b>☕ Coffee</b><br>
 <sub>Fuel for late-night coding sessions</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/Zw3oBUuOlDJ3W/giphy.gif" width="100"><br>
+<img src="https://images.unsplash.com/photo-1608270586620-248524c67de9?w=400" width="100"><br>
 <b>🍺 Beer</b><br>
 <sub>Perfect for celebrating successful model deployments</sub>
 </td>
@@ -147,9 +180,7 @@ class DaniMirkin:
 ---
 
 <div align="center">
-
 <img src="https://media.giphy.com/media/LnQjpWahl0Q1AQpAE7/giphy.gif" width="60">
-
 ### 🤝 Let's Connect & Collaborate!
 
 *Always interested in discussing data science, AI breakthroughs, or a good chess match*
