@@ -25,38 +25,21 @@ Currently diving deep into the AI ecosystem, leveraging tools like **Claude Code
 
 <br clear="right"/>
 
-<div align="center">
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Data Analysis" width="500">
+
 </div>
 
-```python
-class DaniMirkin:
-    def __init__(self):
-        self.education = ["Industrial Engineering (BGU)", "MSc Data Science (BGU)"]
-        self.current_focus = ["AI", "Deep Learning", "LLMs", "Claude Code"]
-        self.expertise = ["Data Analysis", "Machine Learning", "Business Intelligence"]
-        self.location = "Israel 🇮🇱"
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "SQL"],
-            "tools": ["Tableau", "Power BI"],
-            "interests": ["Gym 💪", "Chess ♟️", "Coffee ☕", "Beer 🍺"]
-        }
-```
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"> <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50">
 
 </div>
 
@@ -78,7 +61,6 @@ class DaniMirkin:
 <td width="50%">
 
 ### 📊 **Data analytics**
-<img src="https://media.giphy.com/media/l3q2Z6S6n38zjPswo/giphy.gif" width="200" align="right">
 
 - Advanced analytics with Python & SQL
 - Interactive dashboards with Tableau & Power BI
@@ -96,7 +78,6 @@ class DaniMirkin:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan1k99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=A8B2D1)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dan1k99&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
 
 </div>
 
@@ -134,15 +115,6 @@ class DaniMirkin:
 </tr>
 </table>
 
----
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
-
-### 🔍 **[View All My Repositories →](https://github.com/Dan1k99?tab=repositories)**
-
-<sub>*💡 Each project represents a different facet of my data science expertise*</sub>
-
-</div>
 
 ---
 
@@ -191,16 +163,6 @@ class DaniMirkin:
 
 <img src="https://komarev.com/ghpvc/?username=Dan1k99&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
----
-
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20"> *"In data we trust, but let's verify with proper validation"* <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20">
-
-**📊✨ Ready to turn data into magic! ✨📊**
 
 </div>
 
----
-
-<div align="center">
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="800">
-</div>
